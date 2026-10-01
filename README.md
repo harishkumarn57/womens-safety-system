@@ -3,7 +3,7 @@
 Real-time wearable safety device that sends an SOS alert with live location to guardians.
 
 ## System Block Diagram
-![Block Diagram](block-diagram.png)
+![Block Diagram](flowchart.png)
 
 ## Features
 - Panic/touch button for manual SOS
